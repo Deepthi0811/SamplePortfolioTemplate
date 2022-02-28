@@ -1,0 +1,14 @@
+.link{
+    text-decoration: none;
+    color: black;
+    
+}
+
+a:hover{
+    border-bottom: 2px solid black;
+}
+
+.spl{
+    text-decoration: none; color: black;font-family: 'Varela Round',sans-serif;
+    margin-left: 10rem;
+}
